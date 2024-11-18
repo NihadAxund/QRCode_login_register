@@ -17,7 +17,7 @@ function App() {
             <Stethoscope className="h-12 w-12 text-teal-600" />
           </div>
           <h1 className="text-3xl font-bold text-gray-900 mb-2">
-            Welcome to Inframed Life
+            Welcome to Company
           </h1>
           <p className="text-gray-600">
             Your health journey begins here
@@ -55,7 +55,7 @@ function App() {
 
         <div className="text-center mt-8">
           <p className="text-sm text-gray-600">
-            © {new Date().getFullYear()} Inframed Life. All rights reserved.
+            © {new Date().getFullYear()} Company. All rights reserved.
           </p>
         </div>
       </div>
